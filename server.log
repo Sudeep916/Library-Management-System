@@ -1,0 +1,6 @@
+
+> library-management-system-server@1.0.0 start
+> node src/server.js
+
+Connected to in-memory MongoDB.
+Server running on port 5000.
