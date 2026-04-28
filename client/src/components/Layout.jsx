@@ -5,7 +5,12 @@ import { getHomePathForRole } from "../utils/navigation";
 const Layout = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
-  const navClassName = ({ isActive }) => `nav-link ${isActive ? "active" : ""}`;
+
+  if (!user) return null; // safety guard
+
+  const navClassName = ({ isActive }) =>
+    `nav-link ${isActive ? "active" : ""}`;
+
   const homePath = getHomePathForRole(user.role);
 
   const handleLogout = () => {
@@ -20,9 +25,10 @@ const Layout = () => {
           <p className="eyebrow">Library Management System</p>
           <h1>Library Management System</h1>
         </div>
+
         <div className="topbar-actions">
           <span className="role-chip">{user.role.toUpperCase()}</span>
-          <button className="btn ghost" type="button" onClick={handleLogout}>
+          <button className="btn ghost" onClick={handleLogout}>
             Logout
           </button>
         </div>
@@ -32,14 +38,17 @@ const Layout = () => {
         <NavLink to={homePath} className={navClassName}>
           Home
         </NavLink>
+
         {user.role === "admin" && (
           <NavLink to="/maintenance" className={navClassName}>
             Maintenance
           </NavLink>
         )}
+
         <NavLink to="/reports" className={navClassName}>
           Reports
         </NavLink>
+
         <NavLink to="/transactions" className={navClassName}>
           Transactions
         </NavLink>

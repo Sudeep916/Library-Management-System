@@ -7,13 +7,14 @@ const STORAGE_KEY = "libraryAuth";
 const readStoredAuth = () => {
   try {
     return JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
-  } catch (error) {
+  } catch {
     return null;
   }
 };
 
 export const AuthProvider = ({ children }) => {
   const storedAuth = readStoredAuth();
+
   const [token, setToken] = useState(storedAuth?.token || "");
   const [user, setUser] = useState(storedAuth?.user || null);
   const [loading, setLoading] = useState(Boolean(storedAuth?.token));
@@ -21,6 +22,7 @@ export const AuthProvider = ({ children }) => {
   const persistAuth = (nextToken, nextUser) => {
     setToken(nextToken);
     setUser(nextUser);
+
     localStorage.setItem(
       STORAGE_KEY,
       JSON.stringify({
@@ -37,8 +39,6 @@ export const AuthProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    let isMounted = true;
-
     const verifySession = async () => {
       if (!token) {
         setLoading(false);
@@ -47,25 +47,24 @@ export const AuthProvider = ({ children }) => {
 
       try {
         const { data } = await api.get("/auth/me");
-        if (isMounted) {
-          persistAuth(token, data.user);
-        }
-      } catch (error) {
-        if (isMounted) {
-          clearAuth();
-        }
+
+        setUser(data.user);
+
+        localStorage.setItem(
+          STORAGE_KEY,
+          JSON.stringify({
+            token,
+            user: data.user
+          })
+        );
+      } catch {
+        clearAuth();
       } finally {
-        if (isMounted) {
-          setLoading(false);
-        }
+        setLoading(false);
       }
     };
 
     verifySession();
-
-    return () => {
-      isMounted = false;
-    };
   }, [token]);
 
   const login = async (credentials) => {
@@ -80,19 +79,10 @@ export const AuthProvider = ({ children }) => {
   };
 
   return (
-    <AuthContext.Provider
-      value={{
-        token,
-        user,
-        loading,
-        login,
-        logout
-      }}
-    >
+    <AuthContext.Provider value={{ token, user, loading, login, logout }}>
       {children}
     </AuthContext.Provider>
   );
 };
 
 export const useAuth = () => useContext(AuthContext);
-

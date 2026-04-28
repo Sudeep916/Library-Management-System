@@ -4,3 +4,9 @@ dist/
 server/.env
 npm-debug.log*
 
+client.log
+client-error.log
+
+server.log
+server-error.log
+

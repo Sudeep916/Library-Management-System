@@ -1,6 +1,32 @@
-export const getHomePathForRole = (role) => (role === "admin" ? "/admin/home" : "/user/home");
+export const getHomePathForRole = (role) => {
+  switch (role) {
+    case "admin":
+      return "/admin/home";
+    case "user":
+      return "/user/home";
+    default:
+      return "/";
+  }
+};
 
-export const getLoginPathForRole = (role) => (role === "admin" ? "/admin/login" : "/user/login");
+export const getLoginPathForRole = (role) => {
+  switch (role) {
+    case "admin":
+      return "/admin/login";
+    case "user":
+      return "/user/login";
+    default:
+      return "/";
+  }
+};
 
-export const getRoleLabel = (role) => (role === "admin" ? "Admin" : "User");
-
+export const getRoleLabel = (role) => {
+  switch (role) {
+    case "admin":
+      return "Admin";
+    case "user":
+      return "User";
+    default:
+      return "User";
+  }
+};

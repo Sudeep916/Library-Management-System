@@ -320,7 +320,7 @@ const MaintenancePage = () => {
   return (
     <section className="page-card">
       <p className="eyebrow">Maintenance</p>
-      <h2>Housekeeping</h2>
+      <h2>Maintenance</h2>
       <p className="muted-text">
         Use these screens to create or update the memberships, books, and users required by the
         rest of the application.

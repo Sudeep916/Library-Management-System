@@ -30,3 +30,94 @@
 [2m1:27:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
 [2m1:27:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx[22m
 [2m1:27:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m1:47:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LandingPage.jsx[22m
+[2m1:47:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LandingPage.jsx[22m
+[2m1:48:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:48:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:50:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:50:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:54:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:54:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:54:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:56:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m1:56:49 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:56:49 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m1:56:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:02:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:02:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:02:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:02:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:03:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:03:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:06:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:06:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:06:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:06:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:08:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:08:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:08:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:08:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:08:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:09:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:09:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:09:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LandingPage.jsx[22m
+[2m2:11:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:11:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:14:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:15:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:15:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:15:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:15:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:15:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:19:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:19:56 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:19:56 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m2:23:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:28:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:30:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:30:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:30:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:31:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:31:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:34:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:34:43 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:34:43 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m2:35:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:36:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:38:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:39:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:40:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx[22m
+[2m2:41:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:41:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:43:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:45:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:45:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:47:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:48:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:48:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:52:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx, /src/pages/DashboardRedirectPage.jsx, /src/components/ProtectedRoute.jsx, /src/pages/RoleLoginPage.jsx[22m
+[2m2:52:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:52:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:52:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:53:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:53:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.jsx[22m
+[2m2:54:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardRedirectPage.jsx[22m
+[2m2:55:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:56:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:56:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:56:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:57:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m2:57:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:57:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.jsx[22m
+[2m3:12:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardRedirectPage.jsx[22m
+[2m3:13:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MaintenancePage.jsx[22m
+[2m3:14:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MaintenancePage.jsx[22m
