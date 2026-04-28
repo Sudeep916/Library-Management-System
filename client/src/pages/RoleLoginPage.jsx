@@ -95,15 +95,6 @@ const RoleLoginPage = ({ role }) => {
           </button>
         </form>
 
-        <div className="credential-box">
-          <p>
-            <strong>User ID:</strong> {credentialCopy[role].username}
-          </p>
-          <p>
-            <strong>Password:</strong> {credentialCopy[role].password}
-          </p>
-        </div>
-
         <Link className="text-link" to="/">
           Back to Home
         </Link>
